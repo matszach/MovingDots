@@ -18,3 +18,5 @@ function moveInRandomDir(e){
     e.currentTarget.style.left = left + 'px';
     e.currentTarget.style.top = top + 'px';
 }
+
+
